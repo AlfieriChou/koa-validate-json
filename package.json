@@ -1,0 +1,27 @@
+{
+  "name": "koa-validate-json",
+  "version": "1.0.0",
+  "description": "koa json schema validate.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlfieriChou/koa-validate-json.git"
+  },
+  "keywords": [
+    "json",
+    "schema",
+    "koa"
+  ],
+  "author": "AlfieriChou",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AlfieriChou/koa-validate-json/issues"
+  },
+  "homepage": "https://github.com/AlfieriChou/koa-validate-json#readme",
+  "dependencies": {
+    "jsonschema": "^1.2.4"
+  }
+}
