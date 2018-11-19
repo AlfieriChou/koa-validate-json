@@ -1,6 +1,6 @@
 # koa-validate-json
 
-[![NPM version][npm-image]][npm-url] [![license](https://img.shields.io/github/license/mono-js/mono-utils.svg)](https://github.com/AlfieriChou/koa-validate-json/blob/master/LICENSE)
+[![NPM version][npm-image]][npm-url] [![license](https://img.shields.io/github/license/mono-js/mono-utils.svg)](https://github.com/AlfieriChou/koa-validate-json/blob/master/LICENSE) [![Greenkeeper badge](https://badges.greenkeeper.io/AlfieriChou/koa-validate-json.svg)](https://greenkeeper.io/)
 
 * koa拦截校验字段
 
